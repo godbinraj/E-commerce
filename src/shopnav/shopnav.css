@@ -1,0 +1,17 @@
+.text{
+    font-weight: bold;
+}
+.search{
+    border-radius: 5px;
+    border-style: inset;
+    width: 200px;
+    
+}
+
+.collapsibleNavbar{
+   justify-content: end;
+}
+.menu{
+    display: flex;
+    justify-content: end;
+}

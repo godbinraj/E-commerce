@@ -1,0 +1,11 @@
+.text{
+    font-weight: bold;
+}
+
+.collapsibleNavbar{
+   justify-content: end;
+}
+.menu{
+    display: flex;
+    justify-content: end;
+}

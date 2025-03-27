@@ -1,0 +1,62 @@
+.signbg{
+    background-image: url("./signbg.jpg");
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.signbg2{
+    background-image: url("./signbg2.jpg");
+    height: 90vh;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.span{
+    font-weight: bold;
+    font-size: x-large;
+    font-family: g;
+   
+}
+.username{
+    width: 250px;
+    border-radius: 6px;
+}
+.email{
+    width: 250px;
+    border-radius: 6px;
+}
+.password{
+    width: 250px;
+    border-radius: 6px;
+}
+.con-password{
+    width: 250px;
+    border-radius: 6px;
+}
+.gender{
+    margin-right: 40px;
+}
+.gend{
+    font-weight: 700;
+}
+.sigbtn{
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
+    background-color: rgb(14, 120, 120);
+}
+.sigbtn:hover{
+    height: 35px;
+    width: 120px;
+    background-color: rgb(160, 92, 223);
+}
+.toLogin{
+    text-decoration: none;
+
+}

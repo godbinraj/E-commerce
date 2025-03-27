@@ -1,0 +1,41 @@
+.imgbg{
+    background-image: url("./servimg.jpg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.imgbg1{
+    background-image: url("./servbg2.jpg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.servsimg{
+    height: 150px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.servsimg2{
+    height: 200px;
+    width: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.btn-group{
+    border-radius: 5px;
+}
+.btn{
+    width: 100px;
+}
+.linkin{
+    text-decoration: none;
+    color: white;
+}

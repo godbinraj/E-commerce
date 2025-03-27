@@ -1,0 +1,74 @@
+.lognbg {
+    background-image: url("./logn.jpg");
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.logbg {
+    background-image: url("./logbg2.jpg");
+    height: 90vh;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.login {
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+    font-size: x-large;
+    font-family: g;
+}
+
+.user {
+    border-radius: 5px;
+    border-style: none;
+    width: 250px;
+}
+
+.pass {
+    border-radius: 5px;
+    border-style: none;
+    width: 250px;
+}
+
+.forget {
+    margin-left: 150px;
+    font-size: small;
+    text-decoration: none;
+}
+
+.remember {
+    margin-right: 120px;
+}
+
+.logbtn {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(19, 205, 177);
+}
+
+.logbtn:hover {
+    height: 35px;
+    width: 110px;
+    background-color: blue;
+}
+
+.noacc {
+    font-size: small;
+}
+.signpg{
+    text-decoration: none;
+}

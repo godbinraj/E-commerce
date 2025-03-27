@@ -1,0 +1,27 @@
+.cntimg{
+   background-color: rgb(10, 96, 96);
+   height: 100vh;
+   width: 100%;
+   
+}
+
+.watapp{
+  height: 50px;
+  width: 50px;
+}
+.cont{
+  height: 50px;
+  width: 50px;
+  
+}
+.facbk{
+  height: 50px;
+  width: 50px;
+ 
+}
+.contimg{
+  height: 400px;
+  width: 500px;
+  filter: blur(2px);
+ 
+}

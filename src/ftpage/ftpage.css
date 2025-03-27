@@ -1,0 +1,28 @@
+.fntbg{
+    background-image: url("./fontbg1.jpg");
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.span{
+    font-weight: bold;
+    
+}
+.about{
+    position: relative;
+    top: 50px;
+
+}
+.nxt{
+    color: white;
+    background-color: rgb(234, 13, 65);
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    margin-left: 30%;
+}
+.start{
+    text-decoration: none;
+}

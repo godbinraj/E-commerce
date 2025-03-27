@@ -1,0 +1,48 @@
+.fgtbg{
+    background-image:url("./forgetbg.jpg") ;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.fgtbg2{
+    background-image:url("./forgetbg2.jpg") ;
+    height: 100vh;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.head{
+    font-weight: bold;
+    font-size: x-large;
+    
+}
+.userEmail{
+    height: 30px;
+    width: 250px;
+    border-radius: 6px;
+}
+.newPass{
+    height: 30px;
+    width: 250px;
+    border-radius: 6px;
+}
+.updatePass{
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
+    background-color: rgb(1, 17, 8);
+}
+.remember{
+    margin-right: 35px;
+}
+.goLogin{
+    color: white;
+    text-decoration: none;
+
+}
